@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/alexsb/upset-data/master/movies.csv",
+	"file": "https://raw.githubusercontent.com/maniabrahim/langdata/master/movies.csv",
 	"name": "Online Movies Genres - GitHub",
 	"header": 0,
 	"separator": ";",
